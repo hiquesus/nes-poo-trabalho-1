@@ -1,0 +1,8 @@
+Herança simples:
+    Jogador -> JogadorHumano, Jogador -> JogadorComputador;
+
+Composição:
+    JogoVelha -> Tabuleiro;
+    
+Agregação:
+     JogoVelha -> Jogador.
